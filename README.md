@@ -74,8 +74,8 @@
 <item>
 <title>[B][COLOR lime]Upgrade: [/COLOR] [COLOR yellow]Atualização [/COLOR][/B]</title>
 <link>http://ignorame</link>
-<thumbnail>https://thumbs.dreamstime.com/z/icono-de-actualizaci%C3%B3n-software-actualizar-progreso-la-aplicaci%C3%B3n-164771840.jpg</thumbnail>
-<fanart>https://i.imgur.com/lsQCKaA.jpg</fanart>
+<thumbnail>https://image.freepik.com/icones-gratis/atualizacao_318-33117.jpg</thumbnail>
+<fanart>https://image.freepik.com/icones-gratis/atualizacao_318-33117.jpg</fanart>
 <externallink>https://</externallink>
 </item>
 
